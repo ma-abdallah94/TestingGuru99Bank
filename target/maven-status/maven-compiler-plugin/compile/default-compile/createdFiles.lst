@@ -1,0 +1,4 @@
+utils\ConfigUtils.class
+utils\PropertyUtils.class
+pages\LoginPage.class
+pages\ManagerHomePage.class
